@@ -47,7 +47,7 @@ Booking service should provide newly created orders in search results immediatel
 
 ## Architecture
 
-![image](https://user-images.githubusercontent.com/10060860/115158869-02ffbc00-a0ae-11eb-9c77-8a7fcb58ba39.png)
+![image](https://github.com/nimesh-mittal/n_booking/blob/main/.github/images/n_booking.png)
 
 ## Implementation
 
